@@ -1,0 +1,43 @@
+---------------------------------------------------------------
+---------------------[README]----------------------------------
+---------------------------------------------------------------
+---------------Library Management System-----------------------
+------------------Alfredo Martinez-----------------------------
+
+
+------------------Program Info---------------------------------
+
+This application is to simulate a database and be an MVC.
+Your model will be the three objects Author, Book, Publisher then 
+the View will display the the UI that the user will intract with.
+the control will be the Service that talkes to the DAO's that then
+read and wirte to the files whenever a change is made. 
+
+
+------------------How to Use-----------------------------------
+
+I) To use start program then select from menu using number input
+   input is taken in as first char so if you were to put 21 it would 
+   still pick choice 2.
+
+
+-II) File format for Author file    = ID/Author Name
+     File format for book file      = ID/Book Title/Author ID/Publisher ID
+     File format for publisher file = ID/Publisher Name/Publisher Address
+     
+     the "/" is used to split the string up to be put into the diffrent list's
+     
+     
+--III) When asking you for input you select by typing in the ID you wish to access
+       other input's such as name's and address will be typed in by a string
+
+--------------------------What I have learned-----------------------
+I learned how to manage a java project in a real world sense instead of just an academic on witch 
+help’s with gaining experience with working in a real world project set. Leaning more about things about 
+java 8 and up have also added to my programing style to be more up to date with java. This project has also
+made me understand concepts in object oriented programing such as using different packages to better order my 
+project. By creating a simulated database I understand the concepts of using foreign keys to link tables to one 
+another and by editing a database by doing calls and compares. I also now have a much better understanding of java 
+then I did before since I was mainly a C++ programmer I now can wrap my head around this type of programing. 
+I have now used a lot of Javas new functional programing and also how to use JUnit testing which allows me 
+to test out my code with other edge cases and iron out errors I might have. 
