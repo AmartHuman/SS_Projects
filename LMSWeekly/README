@@ -13,6 +13,10 @@ the View will display the the UI that the user will intract with.
 the control will be the Service that talkes to the DAO's that then
 read and wirte to the files whenever a change is made. 
 
+View = Main class
+Service = Controller
+DAO's = Aata Access Objects
+
 
 ------------------How to Use-----------------------------------
 
@@ -33,7 +37,7 @@ I) To use start program then select from menu using number input
 
 --------------------------What I have learned-----------------------
 I learned how to manage a java project in a real world sense instead of just an academic on witch 
-help’s with gaining experience with working in a real world project set. Leaning more about things about 
+helpâ€™s with gaining experience with working in a real world project set. Leaning more about things about 
 java 8 and up have also added to my programing style to be more up to date with java. This project has also
 made me understand concepts in object oriented programing such as using different packages to better order my 
 project. By creating a simulated database I understand the concepts of using foreign keys to link tables to one 
